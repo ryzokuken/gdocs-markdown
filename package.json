@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ryzokuken/gdocs-markdown/issues"
   },
-  "homepage": "https://github.com/ryzokuken/gdocs-markdown#readme"
+  "homepage": "https://github.com/ryzokuken/gdocs-markdown#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
 }
